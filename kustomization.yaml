@@ -1,0 +1,5 @@
+secretGenerator:
+- name: database-credentials
+  files:
+  - username.txt
+  - password.txt
